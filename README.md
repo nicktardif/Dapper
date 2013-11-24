@@ -5,10 +5,10 @@ This JQuery plugin allows you to slide your HTML elements on and off the screen,
 
 ####**Example:**
 ```javascript
-  $('#myDapperElement').dapper();
+$('#myDapperElement').dapper();
 ```
 ####**Example With Options:**
-```javascript 
+```javascript
 $('myDapperElement').dapper({
     dapperButton1: '#legendButton',
     dapperButton2: '.closeButton',
